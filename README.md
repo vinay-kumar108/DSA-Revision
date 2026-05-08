@@ -5,11 +5,11 @@ Started a new approach:
 
 Rules:
 
-1 → Revise old topics randomly every day 
+1 → Revise old topics in spaced revision periodically 
 
 2 → Revisit difficult problems after a few days 
 
-3 → Solve 1–2 questions daily. 
+3 → Solve 4-5 questions daily. 
 
 4 → Focus on understanding why the solution works, not just how 
 
